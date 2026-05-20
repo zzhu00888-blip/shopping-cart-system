@@ -1,4 +1,3 @@
-// Products.jsx 关键改动
 import { useState, useEffect } from 'react';
 import { fetchProducts, addToCart } from '../services/api';
 import { useAuth } from '../contexts/AuthContext';
